@@ -1,0 +1,7 @@
+- hosts: aliyun
+
+  roles:
+    - server
+    - php
+    - mysql
+    - wordpress
